@@ -13,3 +13,7 @@ Feel free to contact me for requests or contributing. Contributions will be very
 The base.psd is the "template" for this icon set, that can have 4 flavours: disk, bezel, Cs, normal.
 
 The Original Flurry icons are a creation of IconFactory.
+
+SOON I will be publishing here links for an iContainer, IconPackage and maybe a Ubuntu PPA.
+
+Licensed under the creative commons attribution license.
