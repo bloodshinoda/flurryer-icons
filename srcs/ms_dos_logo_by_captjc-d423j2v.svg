@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="MS-DOS Logo.svg"
+   inkscape:export-filename="C:\Users\Jeremy\Desktop\MS-DOS Logo.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3199"
+       is_visible="true"
+       pattern="m 222.2973,388.97504 34.30939,0 42.09137,127.34222 42.08374,-127.34222 34.3399,0 0,168.60962 -27.38952,0 0,-125.42725 -39.40583,125.42725 -19.26422,0 -39.36767,-125.42725 0,125.42725 -27.39716,0 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3175"
+       is_visible="true"
+       pattern="m 222.2973,388.97504 34.30939,0 42.09137,127.34222 42.08374,-127.34222 34.3399,0 0,168.60962 -27.38952,0 0,-125.42725 -39.40583,125.42725 -19.26422,0 -39.36767,-125.42725 0,125.42725 -27.39716,0 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3163"
+       is_visible="true"
+       pattern="m 222.2973,388.97504 34.30939,0 42.09137,127.34222 42.08374,-127.34222 34.3399,0 0,168.60962 -27.38952,0 0,-125.42725 -39.40583,125.42725 -19.26422,0 -39.36767,-125.42725 0,125.42725 -27.39716,0 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <filter
+       id="filter6335"
+       x="-0.25"
+       width="1.5"
+       y="-0.25"
+       height="1.5"
+       inkscape:menu="Non realistic 3D shaders"
+       inkscape:menu-tooltip="Brushed aluminium shader"
+       inkscape:label="Aluminium"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6337"
+         result="result8"
+         stdDeviation="7" />
+      <feComposite
+         id="feComposite6339"
+         in2="SourceGraphic"
+         in="result8"
+         operator="xor"
+         result="result6" />
+      <feDisplacementMap
+         id="feDisplacementMap6341"
+         in2="result6"
+         result="result4"
+         scale="75"
+         yChannelSelector="A"
+         xChannelSelector="A"
+         in="result6" />
+      <feComposite
+         id="feComposite6343"
+         in2="SourceGraphic"
+         k1="1"
+         in="result4"
+         operator="arithmetic"
+         result="result2" />
+    </filter>
+    <filter
+       id="filter6345"
+       inkscape:label="Comics draft"
+       inkscape:menu-tooltip="Draft painted cartoon shading with a glassy look"
+       inkscape:menu="Non realistic 3D shaders"
+       height="1.5"
+       y="-0.25"
+       width="1.5"
+       x="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6347"
+         stdDeviation="7"
+         result="result8" />
+      <feComposite
+         id="feComposite6349"
+         in2="result8"
+         result="result6"
+         operator="xor"
+         in="result8" />
+      <feDisplacementMap
+         id="feDisplacementMap6351"
+         in2="result6"
+         in="SourceGraphic"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         scale="100"
+         result="result4" />
+      <feComposite
+         id="feComposite6353"
+         in2="result4"
+         result="result2"
+         operator="arithmetic"
+         in="SourceGraphic"
+         k1="1" />
+      <feComposite
+         id="feComposite6355"
+         in2="result2"
+         result="fbSourceGraphic"
+         in="result6"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter6428"
+       x="-0.25"
+       width="1.5"
+       y="-0.25"
+       height="1.5"
+       inkscape:menu="Non realistic 3D shaders"
+       inkscape:menu-tooltip="Fluid brushed cartoon drawing"
+       inkscape:label="Comics fluid"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6430"
+         result="result8"
+         stdDeviation="4" />
+      <feComposite
+         id="feComposite6432"
+         in2="result8"
+         in="result8"
+         operator="xor"
+         result="result6" />
+      <feDisplacementMap
+         id="feDisplacementMap6434"
+         in2="result6"
+         result="result4"
+         scale="100"
+         yChannelSelector="A"
+         xChannelSelector="A"
+         in="result6" />
+      <feComposite
+         id="feComposite6436"
+         in2="result4"
+         k1="5"
+         in="result8"
+         operator="arithmetic"
+         result="result2" />
+      <feComposite
+         id="feComposite6438"
+         in2="result2"
+         operator="in"
+         in="result6"
+         result="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="filter6440"
+       x="-0.25"
+       width="1.5"
+       y="-0.25"
+       height="1.5"
+       inkscape:menu="Non realistic 3D shaders"
+       inkscape:menu-tooltip="Imitation of black and white cartoon shading"
+       inkscape:label="Comics"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6442"
+         result="result8"
+         stdDeviation="7" />
+      <feComposite
+         id="feComposite6444"
+         in2="result8"
+         in="result8"
+         operator="xor"
+         result="result6" />
+      <feDisplacementMap
+         id="feDisplacementMap6446"
+         in2="result6"
+         result="result4"
+         scale="100"
+         yChannelSelector="A"
+         xChannelSelector="A"
+         in="SourceGraphic" />
+      <feComposite
+         id="feComposite6448"
+         in2="result4"
+         k1="1"
+         in="SourceGraphic"
+         operator="arithmetic"
+         result="result2" />
+      <feComposite
+         id="feComposite6450"
+         in2="result2"
+         operator="in"
+         in="SourceGraphic"
+         result="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="filter6502"
+       x="-0.25"
+       width="1.5"
+       y="-0.25"
+       height="1.5"
+       inkscape:menu="Non realistic 3D shaders"
+       inkscape:menu-tooltip="Combination of smooth shading and embossing"
+       inkscape:label="Emboss shader"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6504"
+         result="result8"
+         stdDeviation="5" />
+      <feComposite
+         id="feComposite6506"
+         in2="result8"
+         in="result8"
+         operator="xor"
+         result="result6" />
+      <feDisplacementMap
+         id="feDisplacementMap6508"
+         in2="result6"
+         result="result4"
+         scale="100"
+         yChannelSelector="A"
+         xChannelSelector="A"
+         in="result8" />
+      <feComposite
+         id="feComposite6510"
+         in2="result4"
+         k1="1"
+         in="result4"
+         operator="arithmetic"
+         result="result2" />
+      <feComposite
+         id="feComposite6512"
+         in2="result8"
+         operator="in"
+         in="result2"
+         result="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="filter6573"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6575"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset6577"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite6579"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood6581"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend6583"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite6585"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter6836"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6838"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset6840"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite6842"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood6844"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend6846"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite6848"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter7025"
+       inkscape:menu-tooltip="Draws a black outline around"
+       inkscape:menu="ABCs"
+       inkscape:label="Black outline"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur7027"
+         stdDeviation="2"
+         in="SourceAlpha"
+         result="result0" />
+      <feComposite
+         id="feComposite7029"
+         in2="result0"
+         result="result3"
+         operator="arithmetic"
+         in="SourceGraphic"
+         k2="1"
+         k3="10" />
+      <feComposite
+         id="feComposite7031"
+         in2="result3"
+         k2="1"
+         operator="in"
+         in="result3"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter7283"
+       inkscape:label="Black outline"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Draws a black outline around"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur7285"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset7287"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite7289"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood7291"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend7293"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite7295"
+         in2="SourceGraphic"
+         result="fbSourceGraphic"
+         operator="in" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix7297" />
+      <feGaussianBlur
+         id="feGaussianBlur7299"
+         stdDeviation="2"
+         in="fbSourceGraphicAlpha"
+         result="result0" />
+      <feComposite
+         id="feComposite7301"
+         in2="result0"
+         result="result3"
+         operator="arithmetic"
+         in="fbSourceGraphic"
+         k2="1"
+         k3="10" />
+      <feComposite
+         id="feComposite7303"
+         in2="result3"
+         k2="1"
+         operator="in"
+         in="result3"
+         result="result4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.828"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:document-units="px"
+     inkscape:current-layer="flowRoot2985"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362183)">
+    <g
+       transform="translate(32.569361,-176.82962)"
+       style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold"
+       id="flowRoot2985">
+      <g
+         id="g7305"
+         transform="matrix(1.3423772,0,0,1.3283609,-180.73807,-153.86809)">
+        <g
+           transform="translate(-1.8424182,0)"
+           id="g6587">
+          <g
+             style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#5599ff;fill-opacity:1;stroke:none;filter:url(#filter6573);font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold"
+             id="g3063-8-32"
+             transform="matrix(1.2877751,0,0,1.3081665,4.2106634,-140.92582)">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2996-5-8"
+               d="m 222.2973,388.97504 34.30939,0 42.09137,127.34222 42.08374,-127.34222 34.3399,0 0,168.60962 -27.38952,0 0,-125.42725 -39.40583,125.42725 -19.26422,0 -39.36767,-125.42725 0,125.42725 -27.39716,0 z"
+               style="fill:#5599ff" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path2998-2-5"
+               d="m 380.34322,435.7059 c -2e-5,-12.76638 4.72003,-23.86968 14.16016,-33.30993 9.41972,-9.41959 23.78585,-14.12947 43.09845,-14.12964 20.56875,1.7e-4 36.20136,5.34837 46.89789,16.04462 9.4654,9.46568 14.19816,21.38278 14.1983,35.75134 l -27.39716,0 c -1.1e-4,-8.62109 -2.30164,-15.23322 -6.9046,-19.83643 -5.28472,-5.28448 -13.57787,-7.92679 -24.87945,-7.92694 -12.59874,1.5e-4 -21.22249,2.32457 -25.87128,6.97327 -3.9419,3.9369 -5.91283,8.45859 -5.91278,13.56506 -5e-5,5.12708 1.01212,8.70272 3.0365,10.72693 3.02119,3.02136 8.5881,6.09091 16.70074,9.20868 15.24854,6.6275 31.87297,13.97715 49.87335,22.04895 5.22856,1.96338 10.16732,5.26945 14.81629,9.91821 7.54788,7.54809 11.32188,16.41852 11.32202,26.61133 -1.4e-4,13.40743 -4.7329,24.84388 -14.1983,34.30939 -10.03023,10.03011 -26.29863,15.04516 -48.80524,15.04516 -21.89642,0 -38.8184,-5.97381 -50.76599,-17.92144 -8.79926,-8.79921 -13.19887,-22.32611 -13.19885,-40.58075 l 27.38952,0 c -4e-5,12.50208 2.28878,21.04191 6.86646,25.6195 6.54088,6.54096 16.76171,9.81143 30.66253,9.8114 12.60367,3e-5 21.85558,-2.95 27.75574,-8.85009 4.60296,-4.60303 6.90449,-9.13743 6.9046,-13.60321 -1.1e-4,-5.08113 -1.66332,-9.28492 -4.98962,-12.61139 -3.03661,-3.02627 -7.90415,-6.06531 -14.60266,-9.11713 -6.5512,-3.27039 -14.80874,-7.08763 -24.77265,-11.45172 -11.50518,-5.10652 -20.8817,-9.30269 -28.12957,-12.5885 -5.24906,-1.97338 -9.87756,-4.9641 -13.8855,-8.97217 -6.24595,-6.24582 -9.36892,-14.49065 -9.3689,-24.7345 z"
+               style="fill:#5599ff" />
+          </g>
+          <g
+             id="g6139"
+             transform="translate(-2.6957223,-1.3478611)">
+            <g
+               id="g3345">
+              <g
+                 id="g3063-9"
+                 transform="matrix(1.2825966,0,0,1.3089381,8.4694293,-139.96168)"
+                 style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold">
+                <path
+                   inkscape:connector-curvature="0"
+                   id="path2996-1"
+                   d="m 222.2973,388.97504 34.30939,0 42.09137,127.34222 42.08374,-127.34222 34.3399,0 0,168.60962 -27.38952,0 0,-125.42725 -39.40583,125.42725 -19.26422,0 -39.36767,-125.42725 0,125.42725 -27.39716,0 z"
+                   style="fill:none;stroke:#000000" />
+                <path
+                   inkscape:connector-curvature="0"
+                   id="path2998-24"
+                   d="m 380.34322,435.7059 c -2e-5,-12.76638 4.72003,-23.86968 14.16016,-33.30993 9.41972,-9.41959 23.78585,-14.12947 43.09845,-14.12964 20.56875,1.7e-4 36.20136,5.34837 46.89789,16.04462 9.4654,9.46568 14.19816,21.38278 14.1983,35.75134 l -27.39716,0 c -1.1e-4,-8.62109 -2.30164,-15.23322 -6.9046,-19.83643 -5.28472,-5.28448 -13.57787,-7.92679 -24.87945,-7.92694 -12.59874,1.5e-4 -21.22249,2.32457 -25.87128,6.97327 -3.9419,3.9369 -5.91283,8.45859 -5.91278,13.56506 -5e-5,5.12708 1.01212,8.70272 3.0365,10.72693 3.02119,3.02136 8.5881,6.09091 16.70074,9.20868 15.24854,6.6275 31.87297,13.97715 49.87335,22.04895 5.22856,1.96338 10.16732,5.26945 14.81629,9.91821 7.54788,7.54809 11.32188,16.41852 11.32202,26.61133 -1.4e-4,13.40743 -4.7329,24.84388 -14.1983,34.30939 -10.03023,10.03011 -26.29863,15.04516 -48.80524,15.04516 -21.89642,0 -38.8184,-5.97381 -50.76599,-17.92144 -8.79926,-8.79921 -13.19887,-22.32611 -13.19885,-40.58075 l 27.38952,0 c -4e-5,12.50208 2.28878,21.04191 6.86646,25.6195 6.54088,6.54096 16.76171,9.81143 30.66253,9.8114 12.60367,3e-5 21.85558,-2.95 27.75574,-8.85009 4.60296,-4.60303 6.90449,-9.13743 6.9046,-13.60321 -1.1e-4,-5.08113 -1.66332,-9.28492 -4.98962,-12.61139 -3.03661,-3.02627 -7.90415,-6.06531 -14.60266,-9.11713 -6.5512,-3.27039 -14.80874,-7.08763 -24.77265,-11.45172 -11.50518,-5.10652 -20.8817,-9.30269 -28.12957,-12.5885 -5.24906,-1.97338 -9.87756,-4.9641 -13.8855,-8.97217 -6.24595,-6.24582 -9.36892,-14.49065 -9.3689,-24.7345 z"
+                   style="fill:none;stroke:#000000" />
+              </g>
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 255.74742,369.37364 437.53738,0"
+                 id="path3211"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 293.96501,323.32009 0,316.57437"
+                 id="path3217"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold"
+                 d="m 655.06721,323.32009 0,316.57437"
+                 id="path3217-6"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold"
+                 d="m 255.74742,590.04941 437.53738,0"
+                 id="path3211-9"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold"
+                 d="m 572.76703,323.32009 0,316.57437"
+                 id="path3217-6-3"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:1.08171141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="m 693.2848,435.84881 -156.84025,0"
+                 id="path3273"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold"
+                 d="m 491.60369,323.32009 0,316.57437"
+                 id="path3217-6-3-1"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.11127055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold"
+                 d="m 605.41572,518.12546 -165.52909,0"
+                 id="path3273-1"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 493.11498,94.956933 424.46029,306.91464 355.26073,94.412058"
+                 id="path3311"
+                 inkscape:connector-curvature="0"
+                 transform="translate(-32.569361,229.1918)" />
+              <path
+                 sodipodi:type="arc"
+                 style="fill:none;stroke:#000000"
+                 id="path3313"
+                 sodipodi:cx="682.18781"
+                 sodipodi:cy="234.44582"
+                 sodipodi:rx="116.60399"
+                 sodipodi:ry="110.06544"
+                 d="m 682.18781,344.51125 c -64.39861,0 -116.60399,-49.27797 -116.60399,-110.06543 -10e-6,-60.78746 52.20538,-110.06544 116.60398,-110.06544 0,0 10e-6,0 10e-6,0"
+                 transform="matrix(0.95192557,0,0,1.0242361,-77.1463,241.97878)"
+                 sodipodi:start="1.5707963"
+                 sodipodi:end="4.712389"
+                 sodipodi:open="true" />
+              <path
+                 sodipodi:type="arc"
+                 style="fill:none;stroke:#000000"
+                 id="path3317"
+                 sodipodi:cx="643.229"
+                 sodipodi:cy="325.44052"
+                 sodipodi:rx="92.356895"
+                 sodipodi:ry="69.104477"
+                 d="m 550.87211,325.44052 c 0,-38.16535 41.34959,-69.10448 92.3569,-69.10448 51.0073,10e-6 92.35689,30.93914 92.35689,69.10448 0,38.16535 -41.34959,69.10448 -92.35689,69.10448 l -10e-6,-69.10448 z"
+                 transform="matrix(0.90507965,0,0,1.1096732,-9.5907566,156.98915)"
+                 sodipodi:start="3.1415927"
+                 sodipodi:end="7.8539816" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 d="M 504.55742,116.20719 711.61123,393.00543"
+                 id="path3319"
+                 inkscape:connector-curvature="0"
+                 transform="translate(-32.569361,229.1918)" />
+            </g>
+            <path
+               sodipodi:nodetypes="cccccc"
+               transform="translate(-32.569361,229.1918)"
+               inkscape:connector-curvature="0"
+               id="path3374"
+               d="M 374.87635,97.681328 C 396.3848,134.48444 411.8511,176.57443 421.7359,223.54824 l 3.26927,-13.62196 -4.9039,7.6283 -6.53854,-3.26927 8.17317,9.26293"
+               style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6"
+               d="M 358.21067,522.65473 386.33995,508.1474"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-7"
+               d="m 294.63013,563.35036 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-33"
+               d="M 603.57621,409.69465 646.6216,387.89951"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-65"
+               d="m 507.15052,393.87538 43.00979,-23.39417"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.03560543px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-53"
+               d="m 570.8835,400.43171 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-1"
+               d="M 283.18769,387.35464 326.23308,365.5595"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-47"
+               d="m 498.95955,560.62598 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-17"
+               d="m 291.90575,390.07903 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-996"
+               d="m 437.3849,391.17216 41.41751,-22.34678"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.99324471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-52"
+               d="m 293.54038,534.47181 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-23"
+               d="m 292.45062,499.59959 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-70"
+               d="M 598.12741,591.13917 641.1728,569.34403"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-184"
+               d="m 523.47907,478.34933 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-534"
+               d="m 525.65859,583.51087 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-64"
+               d="m 453.73463,540.46547 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-34"
+               d="m 611.2045,550.27328 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-16"
+               d="m 610.11474,554.08743 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-659"
+               d="m 568.70399,398.79708 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7"
+               d="M 293.61325,413.43592 344.1412,389.06213"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.14573526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-89-6"
+               d="m 498.95955,577.51721 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-1"
+               d="m 594.94652,507.13951 46.13792,-28.15694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.17673492px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-9"
+               d="m 615.98681,522.60608 32.39102,-16.58955"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.75680912px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-92"
+               d="m 528.38299,585.14551 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-91"
+               d="m 609.56987,438.02833 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76"
+               d="M 612.1666,425.62378 644.56972,409.567"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-469"
+               d="m 607.87445,432.09546 37.7182,-19.19234"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.87840796px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-86"
+               d="m 579.00186,398.8519 37.70623,-19.72525"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.89037842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-67"
+               d="m 581.78107,406.97026 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-58"
+               d="m 293.54038,545.36938 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-68"
+               d="m 289.72624,556.81182 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-24"
+               d="M 294.63014,392.25854 337.67553,370.4634"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-35"
+               d="m 436.9792,397.57153 52.03674,-29.15186"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.2715838px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-66"
+               d="m 531.65226,586.23526 43.04539,-21.79514"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-96"
+               d="m 454.83902,474.52056 42.47127,-23.40053"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.02924168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-62"
+               d="m 445.59724,470.68526 44.06358,-24.44797"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.07156408px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-2"
+               d="m 492.68178,405.61973 63.22923,-34.35068"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.5215404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-4"
+               d="m 503.57935,403.9851 63.22923,-34.35068"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.5215404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-37"
+               d="M 293.80116,442.12658 357.03039,407.7759"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.5215404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-33"
+               d="M 578.34822,593.48226 650.05444,552.8341"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.76260781px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-54"
+               d="m 454.54028,552.73691 63.22923,-34.35068"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.5215404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-51"
+               d="m 448.82369,456.56124 88.2844,-45.78389"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:2.07565522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-8"
+               d="M 549.30236,593.64955 654.03589,536.86532"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:2.51775599px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-92"
+               d="m 454.54029,549.46763 63.22923,-34.35068"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.5215404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-8-3"
+               d="M 493.17173,426.65247 600.64597,372.03143"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:2.50143409px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-5-4"
+               d="m 294.19969,435.3983 54.25896,-31.24681"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.34429765px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-6-2"
+               d="m 425.63802,429.61808 64.3664,-31.6737"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.47413027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-5-6"
+               d="m 455.80582,435.41228 125.53872,-65.6021"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:2.96281576px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-6"
+               d="m 293.52284,447.85368 63.24095,-33.81752"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.50982594px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3"
+               d="m 284.47921,382.79383 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-7"
+               d="m 293.88246,396.27549 47.81002,-25.47001"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.13928092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-26"
+               d="m 438.13495,388.51505 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-3"
+               d="m 455.57106,487.13805 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249"
+               d="m 455.57105,489.86243 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-50"
+               d="m 455.02618,483.86877 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-68"
+               d="m 453.93642,469.70193 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-541"
+               d="M 453.93642,462.07364 488.94995,442.3167"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-91"
+               d="m 455.02618,458.80436 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-322"
+               d="m 497.52669,443.00289 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-29"
+               d="M 455.02617,436.46435 490.0397,416.70741"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0"
+               d="m 294.79621,589.33847 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-9"
+               d="m 300.78987,598.05652 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-98"
+               d="m 295.88596,576.80626 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-980"
+               d="m 295.88596,573.53699 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-1"
+               d="m 293.70645,580.62041 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-8"
+               d="m 295.34108,569.17796 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-0"
+               d="m 295.34108,567.54333 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-6"
+               d="m 295.34108,565.36381 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-84"
+               d="m 295.34108,560.45991 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-5"
+               d="M 294.7962,551.19698 328.7914,534.093"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-50"
+               d="m 294.7962,542.47892 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-86"
+               d="m 294.25133,527.7672 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-05"
+               d="m 398.3231,516.86964 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-4"
+               d="m 294.79621,530.49159 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-62"
+               d="m 294.79621,505.42719 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-93"
+               d="m 294.79621,538.66477 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-2"
+               d="m 294.25133,522.31842 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-56"
+               d="m 294.79621,518.50427 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-28"
+               d="m 295.34108,466.74082 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-89"
+               d="m 295.34108,487.99108 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-286"
+               d="m 293.70645,480.90766 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-88"
+               d="m 293.16157,477.09351 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-85"
+               d="m 292.07181,471.64473 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-99"
+               d="m 290.98206,464.56131 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-42"
+               d="m 294.25133,454.20861 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-998"
+               d="m 291.52693,585.52432 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-7"
+               d="m 291.52693,585.52432 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-83"
+               d="m 294.25133,547.9277 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-13"
+               d="m 297.5206,596.42189 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-06"
+               d="m 295.34108,586.61408 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-63"
+               d="m 294.7962,557.19064 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-40"
+               d="M 296.43084,591.51798 330.42604,574.414"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-322-5"
+               d="M 293.74217,495.31123 328.7557,475.55429"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-2"
+               d="M 618.11768,436.56393 646.24696,422.0566"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-0"
+               d="M 334.7809,446.91663 362.91018,432.4093"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-7"
+               d="m 330.96675,452.36541 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-3"
+               d="m 332.05651,455.63468 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-6"
+               d="m 333.69114,458.90395 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-8"
+               d="M 362.02482,534.09718 390.1541,519.58985"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-79"
+               d="m 335.87065,463.80786 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-4"
+               d="M 359.30042,539.54596 387.4297,525.03863"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-80"
+               d="m 337.50529,468.16689 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-85"
+               d="m 338.05017,469.25664 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-72"
+               d="m 436.67315,382.62097 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-42"
+               d="m 340.77456,479.06445 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-9"
+               d="m 346.22335,482.8786 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-20"
+               d="m 344.58871,489.96202 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-1"
+               d="M 349.49262,493.23129 377.6219,478.72396"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-5"
+               d="m 348.94774,499.22496 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-01"
+               d="m 350.03749,501.40447 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-40"
+               d="m 352.21701,504.12886 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-05"
+               d="m 357.66579,529.19327 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-74"
+               d="M 355.48628,510.12253 383.61556,495.6152"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-52"
+               d="m 358.21067,518.2957 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-83"
+               d="m 327.69748,436.01906 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-63-5"
+               d="m 335.66209,460.20228 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-72-9"
+               d="m 421.4652,446.86799 32.39102,-16.58956"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.75680918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-4-7"
+               d="m 288.25857,404.07889 56.33341,-29.63437"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.33394444px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-4-7-8"
+               d="m 285.26174,411.43474 56.33341,-29.63436"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.33394444px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-4-7-9"
+               d="m 290.71052,428.32598 56.33341,-29.63436"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.33394444px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-3-6"
+               d="M 368.44949,556.00618 431.67872,521.6555"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.5215404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-93-0"
+               d="M 373.63751,571.52354 416.6829,549.7284"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-2-9"
+               d="M 387.08922,590.21966 415.2185,575.71233"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-2-0"
+               d="m 380.55068,589.1299 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-05-1"
+               d="m 377.61773,585.52431 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-33-9"
+               d="m 361.15394,549.13488 67.46764,-37.49933"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.64216328px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-05-16"
+               d="m 398.86798,510.33109 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-05-0"
+               d="m 415.21434,459.11252 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-05-14"
+               d="m 407.58604,484.72181 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-05-3"
+               d="m 412.48995,471.09984 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-3-0-05-4"
+               d="m 414.12458,466.74082 33.9952,-17.10398"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.78725296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-6-2-7"
+               d="m 426.1829,412.99929 64.3664,-31.6737"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.47413027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-54-7-6-2-9"
+               d="m 434.35608,404.28124 64.3664,-31.6737"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.47413027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-2-6"
+               d="m 619.20743,438.74346 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-6-2-90"
+               d="m 626.83573,437.10881 28.12928,-14.50733"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.65952265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-7"
+               d="M 460.47496,590.66494 495.48849,570.908"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5"
+               d="m 455.57106,588.48543 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-54"
+               d="m 455.57106,586.30591 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-9"
+               d="m 455.02618,583.58153 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-4"
+               d="m 455.02618,575.95323 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-2"
+               d="M 374.96627,574.28136 415.35412,554.054"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.93315059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-0"
+               d="m 455.02618,492.58683 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-97"
+               d="m 454.4813,529.09368 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-3"
+               d="m 454.4813,522.01026 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-37"
+               d="m 454.4813,518.74099 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-70"
+               d="m 454.4813,505.66391 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-53"
+               d="m 453.39154,495.31122 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-96-1"
+               d="m 451.29731,502.03692 42.47127,-23.40053"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.02924168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-96-2"
+               d="m 451.94587,546.06839 52.0717,-27.55218"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.23661864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-96-6"
+               d="m 449.66267,581.58918 42.47127,-23.40053"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.02924168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-96-4"
+               d="m 448.57291,511.29986 42.47127,-23.40053"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1.02924168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-2"
+               d="m 561.82234,490.95219 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-4"
+               d="m 586.88675,501.30488 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-6"
+               d="M 559.09796,489.86244 594.11149,470.1055"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-0"
+               d="m 537.30281,480.05463 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-3"
+               d="m 579.25846,501.84976 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-5"
+               d="m 590.15602,502.93951 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-7"
+               d="m 493.92799,543.58996 32.40312,-16.05678"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-1"
+               d="m 532.72329,478.09561 39.81356,-21.83258"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.96255374px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-14"
+               d="m 601.26904,407.37035 32.40312,-16.05678"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-9"
+               d="M 595.27538,404.10108 627.6785,388.0443"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-6"
+               d="M 605.62807,411.72938 638.03119,395.6726"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-5"
+               d="M 610.53198,423.17183 642.9351,407.11505"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-2-9"
+               d="m 495.56263,550.1285 32.40312,-16.05678"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-2-8"
+               d="M 494.47287,547.94898 526.87599,531.8922"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-2-7"
+               d="m 512.45386,573.55826 32.40312,-16.05678"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-2-84"
+               d="m 498.28701,553.39777 32.40312,-16.05678"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-2-0"
+               d="m 504.82556,564.29534 32.40312,-16.05678"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-2-2"
+               d="m 507.00507,570.289 32.40312,-16.05678"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-76-2-90"
+               d="m 493.92799,546.31435 32.40312,-16.05678"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.74469686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-9-2"
+               d="M 500.47258,447.95774 532.8636,431.36819"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.75680912px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-9-6"
+               d="m 501.01746,452.86164 32.39102,-16.58955"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.75680912px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-9-29"
+               d="m 604.57328,510.58983 32.33318,-19.25611"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.81463921px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-87-9-69"
+               d="m 614.35217,519.33681 32.39102,-16.58955"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.75680912px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-6-8"
+               d="m 516.05256,468.0673 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-6-3"
+               d="m 512.78328,467.52242 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-6-9"
+               d="m 500.25108,458.80437 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3376-77-8-22-3-249-5-6-1"
+               d="m 542.20673,482.77902 35.01353,-19.75694"
+               style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.85868651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+          </g>
+        </g>
+        <g
+           style="filter:url(#filter7283)"
+           transform="matrix(1.9505708,0,0,1.9117438,-327.95162,-1206.7558)"
+           id="g3056">
+          <path
+             d="m 272.9796,937.40811 60.1349,0 c 19.9279,1.7e-4 36.8346,6.94291 50.7202,20.82824 14.572,14.57228 21.8581,36.20922 21.8583,64.91085 -2e-4,27.4507 -7.6041,48.7824 -22.8119,63.9954 -12.5886,12.5834 -29.1775,18.8751 -49.7666,18.8751 l -60.1349,0 z m 27.3896,23.07129 0,122.467 31.784,0 c 11.327,10e-5 20.579,-3.5883 27.7558,-10.765 11.622,-11.6272 17.433,-27.9719 17.4331,-49.0342 -1e-4,-22.3133 -5.4932,-38.96315 -16.4795,-49.9496 -8.4789,-8.47866 -18.0487,-12.71806 -28.7094,-12.7182 z"
+             id="path3000-9"
+             inkscape:connector-curvature="0"
+             style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+          <path
+             d="m 341.9856,1021.2323 c 0,-27.45048 7.9117,-49.08742 23.735,-64.91092 13.8855,-13.88534 30.8049,-20.82808 50.7584,-20.82825 19.9279,1.7e-4 36.8371,6.94291 50.7279,20.82825 15.8486,15.84893 23.773,37.48587 23.7731,64.91092 -1e-4,27.4506 -7.9245,49.1002 -23.7731,64.949 -13.8653,13.8652 -30.7746,20.7977 -50.7279,20.7977 -19.9789,0 -36.8983,-6.9325 -50.7584,-20.7977 -15.8233,-15.8233 -23.735,-37.473 -23.735,-64.949 z m 74.4934,-62.66788 c -11.3221,1.5e-4 -21.5429,4.55998 -30.6625,13.6795 -10.3201,10.32016 -15.4801,26.64959 -15.4801,48.98838 0,22.3643 5.16,38.709 15.4801,49.0341 9.0941,9.0892 19.315,13.6337 30.6625,13.6337 11.327,0 21.5351,-4.5445 30.6244,-13.6337 10.3504,-10.3505 15.5257,-26.6952 15.5258,-49.0341 -1e-4,-22.31336 -5.1754,-38.64279 -15.5258,-48.98838 -9.1147,-9.11952 -19.3228,-13.67935 -30.6244,-13.6795 z"
+             id="path3002-3"
+             inkscape:connector-curvature="0"
+             style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+          <path
+             d="m 421.7348,985.34524 c -1e-4,-12.76638 4.72,-23.86968 14.1601,-33.30993 9.4197,-9.41959 23.7859,-14.12947 43.0985,-14.12964 20.5687,1.7e-4 36.2013,5.34837 46.8978,16.04462 9.4654,9.46568 14.1982,21.38278 14.1983,35.75134 l -27.3971,0 c -10e-5,-8.62109 -2.3016,-15.23322 -6.9046,-19.83643 -5.2847,-5.28448 -13.5779,-7.92679 -24.8795,-7.92694 -12.5987,1.5e-4 -21.2225,2.32457 -25.8712,6.97327 -3.9419,3.9369 -5.9129,8.45859 -5.9128,13.56506 -1e-4,5.12708 1.0121,8.70272 3.0365,10.72693 3.0212,3.02136 8.5881,6.09091 16.7007,9.20868 15.2486,6.6275 31.873,13.9772 49.8734,22.049 5.2285,1.9633 10.1673,5.2694 14.8163,9.9182 7.5478,7.5481 11.3218,16.4185 11.322,26.6113 -2e-4,13.4074 -4.7329,24.8439 -14.1983,34.3094 -10.0303,10.0301 -26.2986,15.0451 -48.8053,15.0451 -21.8964,0 -38.8184,-5.9738 -50.766,-17.9214 -8.7992,-8.7992 -13.1988,-22.3261 -13.1988,-40.5807 l 27.3895,0 c 0,12.502 2.2888,21.0419 6.8665,25.6195 6.5409,6.5409 16.7617,9.8114 30.6625,9.8114 12.6037,0 21.8556,-2.95 27.7558,-8.8501 4.6029,-4.6031 6.9044,-9.1375 6.9046,-13.6032 -2e-4,-5.0812 -1.6634,-9.285 -4.9897,-12.6114 -3.0366,-3.0263 -7.9041,-6.0653 -14.6026,-9.1172 -6.5512,-3.2704 -14.8088,-7.0876 -24.7727,-11.4517 -11.5052,-5.1065 -20.8817,-9.3027 -28.1296,-12.5885 -5.249,-1.9734 -9.8775,-4.9641 -13.8855,-8.9722 -6.2459,-6.2458 -9.3689,-14.49061 -9.3688,-24.73446 z"
+             id="path3004-8"
+             inkscape:connector-curvature="0"
+             style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold" />
+          <path
+             style="font-size:250px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:MS UI Gothic;-inkscape-font-specification:MS UI Gothic Bold"
+             d="m 460.47427,998.74063 c 1.4419,6.66097 2.1563,14.17187 2.1563,22.50007 0,1.9456 -0.0465,3.8327 -0.125,5.6875 3.4127,1.5226 6.7225,3.2308 10.625,4.9629 6.23,2.7287 11.6979,4.986 16.5937,7.2871 0.8305,-5.6759 1.25,-11.6537 1.25,-17.9375 0,-3.1679 -0.101,-6.2679 -0.3124,-9.2813 -7.5167,-3.3185 -14.64015,-6.8054 -21.58595,-9.8243 -3.2009,-1.2301 -6.19335,-2.17929 -8.60165,-3.39447 z"
+             id="path3002-3-1"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cscccsccc" />
+          <path
+             style="fill:#ff0000"
+             d="m 374.211,1049.0418 c -2.878,9.2199 -8.08121,16.8778 -14.4579,23.2573 -1.05924,1.0592 -2.16285,2.0346 -3.3125,2.9375 2.67712,3.9558 5.7115,7.649 9.125,11.0625 2.89321,2.8943 5.93392,5.4599 9.09375,7.75 2.84506,-2.0169 5.53895,-4.2588 8.0625,-6.7813 3.49265,-3.4938 6.88057,-7.6505 9.5711,-11.7898 -2.16066,-1.5851 -2.47532,-5.1514 -4.52186,-7.1969 -5.46211,-5.4647 -10.98893,-10.402 -13.56009,-19.2393 z"
+             id="path3000"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
