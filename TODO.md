@@ -6,7 +6,6 @@ series will be created wholefully
 
 0.a.d.
 1Password
-3DS Max
 Abiword
 Ableton Live
 Adobe
@@ -36,7 +35,6 @@ Beavis & Butthead
 Behance
 Bento
 Birdie
-Blender
 Blood
 Bloodrayne
 Borderlands
@@ -90,7 +88,6 @@ GBC
 Gears of War
 Gemini
 Geogebra
-Gimp
 Github
 Gnome
 Goat Simulator
@@ -142,7 +139,6 @@ Marvel
 Matrix Trilogy
 Max Payne
 Maxthon Browser
-Maya
 Medal of Honor
 Mega
 MegaDrive
@@ -155,7 +151,6 @@ Mike Myers
 Minecraft
 Miro
 Mission Impossible Series
-Modo
 Mortal Kombat
 Native-Instruments Komplete
 NDS
@@ -169,9 +164,8 @@ NiN
 Nitro
 No one lives forever
 NO$GBA
-Notepat++
+Notepad++
 Novalogic
-Nuke
 Nvidia
 Ocula
 Office
@@ -219,7 +213,6 @@ Sim City
 SiN
 Sin City
 Slender
-Smoke
 SNES
 Solaris
 Sony
