@@ -1,4 +1,4 @@
-flurryer-icons
+﻿flurryer-icons
 ==============
 
 This is a todo list of all the icons I pretend to create,
