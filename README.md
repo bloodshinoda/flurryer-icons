@@ -17,6 +17,10 @@ The base.psd is the "template" for this icon set, that can have 5 flavours: disk
 
 The Original Flurry icons are a creation of IconFactory.
 
-SOON I will be publishing here links for an iContainer, IconPackage and maybe a Ubuntu PPA.
+SOON I will be publishing here links for this icon set packaged on the following formats:
+ - ZIP (for LiteIcon and misc apps with PNG, ICNS and ICO formats)
+ - IconPackager
+ - iContainer (CandyBar)
+ - PPA Repository (apt-get...)
 
 Licensed under the creative commons attribution license.
